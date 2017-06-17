@@ -21,7 +21,7 @@ url: "http://digitalmcgrath.github.io" # the base hostname & protocol for your s
 baseurl: 
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
-port: 8080
+favicon: "/img/favicon.ico"
 # Build settings
 markdown: kramdown
 
