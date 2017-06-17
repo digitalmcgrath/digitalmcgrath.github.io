@@ -10,6 +10,11 @@
             <!--<li><a href="{{ site.baseurl }}/blog">Blog</a></li>-->
             <li><a href="#service">My Services</a></li>
             <li><a href="{{ site.baseurl }}/contact">Contact</a></li>
+          </ul><br/>
+          <ul class="list-inline social-buttons">
+            {% for network in site.social %}
+              <li><a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a></li>
+            {% endfor %}
           </ul>
         </div>
         <p>Copyright &copy; 2017 Developed by <a href="http://www.digitalmcgrath.com">Christopher McGrath</a>.</p>

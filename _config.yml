@@ -38,3 +38,14 @@ descriptions:
 
 # Contact settings
 email: "mcgrathc@gmail.com"
+social:
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/mcgrathc"
+  - title: "twitter"
+    url: "https://twitter.com/digitalmcgrath"
+  - title: "github"
+    url: "https://github.com/digitalmcgrath"
+  - title: "instagram"
+    url: "https://www.instagram.com/digitalmcgrath/"
+  #- title: "rss"
+  #  url: "/feed.xml"
