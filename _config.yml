@@ -18,7 +18,7 @@ title: "Christopher McGrath :: Your Technology Partner"
 subtitle: "Turing caffiene into code for over a decade."
 url: "http://digitalmcgrath.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: 
+baseurl: "http://www.digitalmcgrath.com"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 favicon: "/img/favicon.ico"
@@ -26,7 +26,7 @@ favicon: "/img/favicon.ico"
 markdown: kramdown
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "UA-101255285-1"
 
 # Category descriptions (for archive pages)
 descriptions:
