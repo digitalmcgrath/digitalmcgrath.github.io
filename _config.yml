@@ -16,7 +16,7 @@ keep_files:
 # Site settings
 title: "Christopher McGrath :: Your Technology Partner"
 subtitle: "Turing caffiene into code for over a decade."
-url: "http://digitalmcgrath.github.io" # the base hostname & protocol for your site
+url: "https://digitalmcgrath.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: 
 cover: "/assets/cover.png"
